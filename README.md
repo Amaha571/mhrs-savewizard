@@ -32,5 +32,3 @@ Windows 版：完整解压后，打开「曙光PS4存档工坊.exe」。EXE 和�
 详细操作见 [使用说明](USAGE.md)，下载文件也可以在 [Releases](https://github.com/Amaha571/mhrs-savewizard/releases) 中找到。
 
 目前仅适配 PS4 的 Save Wizard 导出格式，尚未完成 PS4 实机验证。请保留原始备份。
-
-[数据来源](CREDITS.md)
