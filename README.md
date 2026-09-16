@@ -25,9 +25,9 @@ PS4《怪物猎人：崛起／曙光》存档修改工具，配合 Save Wizard �
 
 ## 下载后怎么打开
 
-**Windows 版：**完整解压后，打开「曙光PS4存档工坊.exe」。EXE 和三个 DLL 要放在同一个文件夹，不能只拿走 EXE。需要 64 位 Windows 和 WebView2 Runtime。
+Windows 版：完整解压后，打开「曙光PS4存档工坊.exe」。EXE 和三个 DLL 要放在同一个文件夹，不能只拿走 EXE。需要 64 位 Windows 和 WebView2 Runtime。
 
-**离线网页版：**解压后用 Edge 或 Chrome 打开 `index.html`。
+离线网页版：解压后用 Edge 或 Chrome 打开 `index.html`。
 
 详细操作见 [使用说明](USAGE.md)，下载文件也可以在 [Releases](https://github.com/Amaha571/mhrs-savewizard/releases) 中找到。
 
